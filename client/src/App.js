@@ -1,9 +1,12 @@
+//import logo from './logo.svg';
 import "./App.css";
 
 function App() {
   return (
     <div className="App">
-      <h1> Upload File</h1>
+      <header className="App-header">
+        <p>Upload a file</p>
+      </header>
     </div>
   );
 }
